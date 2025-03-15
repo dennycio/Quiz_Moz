@@ -1,0 +1,717 @@
+[
+{
+        "pergunta": "Qual é a província moçambicana que faz fronteira com o maior número de países?",
+        "opcoes": ["Niassa", "Tete", "Manica", "Cabo Delgado"],
+        "resposta_correta": 1
+    },
+    {
+        "pergunta": "Qual é o nome do arquipélago famoso por suas águas cristalinas e biodiversidade marinha em Moçambique?",
+        "opcoes": ["Arquipélago de Bazaruto", "Arquipélago de São Tomé", "Arquipélago de Zanzibar", "Arquipélago das Seychelles"],
+        "resposta_correta": 0
+    },
+    {
+        "pergunta": "Qual é o principal rio que abastece a barragem de Cahora Bassa?",
+        "opcoes": ["Rio Rovuma", "Rio Zambeze", "Rio Limpopo", "Rio Save"],
+        "resposta_correta": 1
+    },
+    {
+        "pergunta": "A Ilha de Moçambique, considerada Patrimônio Mundial pela UNESCO, pertence a qual província?",
+        "opcoes": ["Nampula", "Cabo Delgado", "Zambézia", "Sofala"],
+        "resposta_correta": 0
+    },
+    {
+        "pergunta": "Qual destas cidades moçambicanas é um importante porto no centro do país?",
+        "opcoes": ["Quelimane", "Pemba", "Beira", "Nacala"],
+        "resposta_correta": 2
+    },
+    {
+        "pergunta": "Qual é o nome da extensa planície localizada na região sul de Moçambique?",
+        "opcoes": ["Planície do Limpopo", "Planície de Inhambane", "Planalto de Manica", "Planície da Zambézia"],
+        "resposta_correta": 0
+    },
+    {
+        "pergunta": "Qual destas cidades não está localizada na região norte de Moçambique?",
+        "opcoes": ["Pemba", "Lichinga", "Nampula", "Chimoio"],
+        "resposta_correta": 3
+    },
+    {
+        "pergunta": "Qual das seguintes ilhas pertence a Moçambique?",
+        "opcoes": ["Ilha de Madagascar", "Ilha de Moçambique", "Ilha de Zanzibar", "Ilha de Príncipe"],
+        "resposta_correta": 1
+    },
+    {
+        "pergunta": "Qual é a maior cidade da província de Tete?",
+        "opcoes": ["Moatize", "Angónia", "Tete", "Changara"],
+        "resposta_correta": 2
+    },
+    {
+        "pergunta": "O Parque Nacional das Quirimbas está localizado em que província?",
+        "opcoes": ["Cabo Delgado", "Niassa", "Nampula", "Zambézia"],
+        "resposta_correta": 0
+    },
+    {
+        "pergunta": "A fronteira entre Moçambique e a África do Sul é delimitada por qual rio?",
+        "opcoes": ["Rio Limpopo", "Rio Save", "Rio Zambeze", "Rio Maputo"],
+        "resposta_correta": 3
+    },
+    {
+        "pergunta": "Qual é o nome da grande depressão localizada na província de Sofala?",
+        "opcoes": ["Vale do Zambeze", "Depressão do Save", "Baixo Limpopo", "Depressão de Chinde"],
+        "resposta_correta": 1
+    },
+    {
+        "pergunta": "Qual é a capital da província de Gaza?",
+        "opcoes": ["Maxixe", "Xai-Xai", "Chokwé", "Inhambane"],
+        "resposta_correta": 1
+    },
+    {
+        "pergunta": "Qual destas províncias moçambicanas é conhecida por sua produção de chá?",
+        "opcoes": ["Manica", "Niassa", "Zambézia", "Cabo Delgado"],
+        "resposta_correta": 2
+    },
+    {
+        "pergunta": "O Lago Niassa faz fronteira com quais dois países além de Moçambique?",
+        "opcoes": ["Tanzânia e Zâmbia", "Malawi e Zâmbia", "Tanzânia e Malawi", "Malawi e Zimbabwe"],
+        "resposta_correta": 2
+    },
+    {
+        "pergunta": "Qual foi o primeiro povo a habitar Moçambique?",
+        "opcoes": ["Macuas", "Zulus", "Khoisan", "Xhosas"],
+        "resposta_correta": 2
+    },
+    {
+        "pergunta": "Que navegador português chegou à costa moçambicana em 1498?",
+        "opcoes": ["Vasco da Gama", "Bartolomeu Dias", "Pedro Álvares Cabral", "Fernão de Magalhães"],
+        "resposta_correta": 0
+    },
+    {
+        "pergunta": "Qual cidade foi um dos principais centros do comércio árabe-suaíli antes da chegada dos portugueses?",
+        "opcoes": ["Maputo", "Beira", "Ilha de Moçambique", "Quelimane"],
+        "resposta_correta": 2
+    },
+    {
+        "pergunta": "Em que século os portugueses começaram a colonização efetiva de Moçambique?",
+        "opcoes": ["Século XV", "Século XVI", "Século XVII", "Século XVIII"],
+        "resposta_correta": 1
+    },
+    {
+        "pergunta": "Quem foi o líder da FRELIMO assassinado em 1969?",
+        "opcoes": ["Samora Machel", "Joaquim Chissano", "Eduardo Mondlane", "Filipe Nyusi"],
+        "resposta_correta": 2
+    },
+    {
+        "pergunta": "Quando começou a luta armada pela independência de Moçambique?",
+        "opcoes": ["1955", "1964", "1970", "1975"],
+        "resposta_correta": 1
+    },
+    {
+        "pergunta": "Em que ano Moçambique conquistou a independência de Portugal?",
+        "opcoes": ["1972", "1975", "1980", "1985"],
+        "resposta_correta": 1
+    },
+    {
+        "pergunta": "Quem foi o primeiro presidente de Moçambique independente?",
+        "opcoes": ["Eduardo Mondlane", "Samora Machel", "Joaquim Chissano", "Armando Guebuza"],
+        "resposta_correta": 1
+    },
+    {
+        "pergunta": "Qual tratado definiu as fronteiras entre Moçambique e as colônias britânicas vizinhas?",
+        "opcoes": ["Tratado de Tordesilhas", "Tratado de Simulambuco", "Tratado de 1891", "Acordo de Lusaka"],
+        "resposta_correta": 2
+    },
+    {
+        "pergunta": "Qual era o principal grupo de resistência contra a FRELIMO durante a Guerra Civil Moçambicana?",
+        "opcoes": ["MPLA", "UNITA", "RENAMO", "PAIGC"],
+        "resposta_correta": 2
+    },
+  {
+        "pergunta": "Qual é o sistema de governo de Moçambique?",
+        "opcoes": ["Monarquia", "República Presidencialista", "República Parlamentarista", "Ditadura Militar"],
+        "resposta_correta": 1
+    },
+    {
+        "pergunta": "Quem foi o primeiro presidente de Moçambique independente?",
+        "opcoes": ["Eduardo Mondlane", "Joaquim Chissano", "Samora Machel", "Filipe Nyusi"],
+        "resposta_correta": 2
+    },
+    {
+        "pergunta": "Qual partido político governou Moçambique após a independência?",
+        "opcoes": ["RENAMO", "PAIGC", "FRELIMO", "MPLA"],
+        "resposta_correta": 2
+    },
+    {
+        "pergunta": "Em que ano foi assinado o Acordo Geral de Paz que pôs fim à guerra civil em Moçambique?",
+        "opcoes": ["1989", "1992", "1994", "1997"],
+        "resposta_correta": 1
+    },
+    {
+        "pergunta": "Qual é o órgão responsável pela criação de leis em Moçambique?",
+        "opcoes": ["Assembleia da República", "Tribunal Supremo", "Conselho de Ministros", "Presidência da República"],
+        "resposta_correta": 0
+    },
+    {
+        "pergunta": "Quantos mandatos um presidente pode exercer em Moçambique?",
+        "opcoes": ["1", "2", "3", "Ilimitados"],
+        "resposta_correta": 1
+    },
+    {
+        "pergunta": "Quem foi o presidente de Moçambique entre 1986 e 2005?",
+        "opcoes": ["Samora Machel", "Joaquim Chissano", "Armando Guebuza", "Filipe Nyusi"],
+        "resposta_correta": 1
+    },
+    {
+        "pergunta": "Qual partido político é historicamente o maior partido da oposição em Moçambique?",
+        "opcoes": ["FRELIMO", "MPLA", "RENAMO", "PAICV"],
+        "resposta_correta": 2
+    },
+    {
+        "pergunta": "Em que ano foram realizadas as primeiras eleições multipartidárias em Moçambique?",
+        "opcoes": ["1985", "1990", "1994", "1999"],
+        "resposta_correta": 2
+    },
+    {
+        "pergunta": "Quantos deputados compõem a Assembleia da República de Moçambique?",
+        "opcoes": ["150", "200", "250", "300"],
+        "resposta_correta": 2
+    },
+    {
+        "pergunta": "Quem é responsável pela nomeação do Primeiro-Ministro de Moçambique?",
+        "opcoes": ["Presidente da República", "Assembleia da República", "Supremo Tribunal", "O povo por voto direto"],
+        "resposta_correta": 0
+    },
+    {
+        "pergunta": "Qual destes documentos estabelece a estrutura política de Moçambique?",
+        "opcoes": ["Declaração de Independência", "Código Penal", "Constituição da República", "Tratado de Lusaka"],
+        "resposta_correta": 2
+    },
+    {
+        "pergunta": "Quantos anos dura um mandato presidencial em Moçambique?",
+        "opcoes": ["4 anos", "5 anos", "6 anos", "7 anos"],
+        "resposta_correta": 1
+    },
+    {
+        "pergunta": "Qual destes órgãos tem a função de fiscalizar o Governo de Moçambique?",
+        "opcoes": ["Tribunal Supremo", "Assembleia da República", "Conselho de Estado", "Ministério Público"],
+        "resposta_correta": 1
+    },
+    {
+        "pergunta": "Que órgão é responsável por organizar e supervisionar as eleições em Moçambique?",
+        "opcoes": ["Conselho Constitucional", "Assembleia da República", "Comissão Nacional de Eleições", "Tribunal Supremo"],
+        "resposta_correta": 2
+    },
+    {
+        "pergunta": "Quem tem o poder de dissolver a Assembleia da República em Moçambique?",
+        "opcoes": ["O Primeiro-Ministro", "O Presidente da República", "O Tribunal Supremo", "O Conselho de Ministros"],
+        "resposta_correta": 1
+    },
+    {
+        "pergunta": "Qual destes partidos NÃO é moçambicano?",
+        "opcoes": ["FRELIMO", "RENAMO", "MPLA", "MDM"],
+        "resposta_correta": 2
+    },
+    {
+        "pergunta": "Qual destes cargos NÃO faz parte da estrutura política de Moçambique?",
+        "opcoes": ["Presidente da República", "Primeiro-Ministro", "Governador Provincial", "Rei de Moçambique"],
+        "resposta_correta": 3
+    },
+    {
+        "pergunta": "Qual é a instância máxima de justiça em Moçambique?",
+        "opcoes": ["Tribunal Supremo", "Conselho Constitucional", "Procuradoria-Geral da República", "Assembleia da República"],
+        "resposta_correta": 0
+    },
+    {
+        "pergunta": "Quem foi o primeiro Primeiro-Ministro de Moçambique após a independência?",
+        "opcoes": ["Mario Machungo", "Joaquim Chissano", "Pascoal Mocumbi", "Luísa Diogo"],
+        "resposta_correta": 0
+    },
+    {
+        "pergunta": "Qual é o principal partido político que governou Moçambique desde a independência?",
+        "opcoes": ["RENAMO", "MDM", "FRELIMO", "PAIGC"],
+        "resposta_correta": 2
+    },
+    {
+        "pergunta": "Em que ano foi aprovada a atual Constituição da República de Moçambique?",
+        "opcoes": ["1975", "1990", "2004", "2018"],
+        "resposta_correta": 2
+    },
+    {
+        "pergunta": "Quantos deputados compõem a Assembleia da República de Moçambique?",
+        "opcoes": ["200", "230", "250", "300"],
+        "resposta_correta": 2
+    },
+    {
+        "pergunta": "Qual destes órgãos tem a função de interpretar a Constituição em Moçambique?",
+        "opcoes": ["Tribunal Supremo", "Conselho Constitucional", "Assembleia da República", "Ministério da Justiça"],
+        "resposta_correta": 1
+    },
+    {
+        "pergunta": "Quem assume a presidência de Moçambique no caso de vacatura do cargo?",
+        "opcoes": ["Presidente da Assembleia da República", "Primeiro-Ministro", "Ministro do Interior", "Governador de Maputo"],
+        "resposta_correta": 0
+    },
+    {
+        "pergunta": "Quantos mandatos consecutivos um Presidente pode exercer em Moçambique?",
+        "opcoes": ["1", "2", "3", "Ilimitado"],
+        "resposta_correta": 1
+    },
+    {
+        "pergunta": "Qual destes cargos é nomeado diretamente pelo Presidente da República?",
+        "opcoes": ["Presidente da Assembleia da República", "Governador do Banco de Moçambique", "Primeiro-Ministro", "Todos os anteriores"],
+        "resposta_correta": 2
+    },
+    {
+        "pergunta": "Como são escolhidos os governadores provinciais em Moçambique a partir de 2019?",
+        "opcoes": ["Nomeação pelo Presidente", "Nomeação pelo Primeiro-Ministro", "Eleição direta", "Escolhidos pelo Conselho de Ministros"],
+        "resposta_correta": 2
+    },
+    {
+        "pergunta": "Qual destes eventos marcou o fim da guerra civil em Moçambique?",
+        "opcoes": ["Acordo de Lusaka", "Acordo Geral de Paz", "Eleições de 1994", "Assinatura da Constituição de 1990"],
+        "resposta_correta": 1
+    },
+    {
+        "pergunta": "Qual destes ministérios é responsável pela segurança interna de Moçambique?",
+        "opcoes": ["Ministério da Defesa Nacional", "Ministério do Interior", "Ministério da Justiça", "Ministério dos Negócios Estrangeiros"],
+        "resposta_correta": 1
+    },
+    {
+        "pergunta": "O que representa a sigla CNE em Moçambique?",
+        "opcoes": ["Comissão Nacional de Economia", "Conselho Nacional de Educação", "Comissão Nacional de Eleições", "Câmara Nacional de Empresas"],
+        "resposta_correta": 2
+    },
+    {
+        "pergunta": "Qual dos seguintes partidos políticos foi fundado como oposição ao governo da FRELIMO?",
+        "opcoes": ["MDM", "RENAMO", "PIMO", "PAIGC"],
+        "resposta_correta": 1
+    },
+    {
+        "pergunta": "Qual foi o primeiro partido de oposição a conseguir representação parlamentar em Moçambique?",
+        "opcoes": ["MDM", "PDD", "FRELIMO", "RENAMO"],
+        "resposta_correta": 3
+    },
+    {
+        "pergunta": "Quem nomeia os juízes do Conselho Constitucional de Moçambique?",
+        "opcoes": ["Presidente da República", "Assembleia da República", "Supremo Tribunal", "Procurador-Geral"],
+        "resposta_correta": 1
+    },
+    {
+        "pergunta": "Qual foi o primeiro líder da RENAMO?",
+        "opcoes": ["Afonso Dhlakama", "Daviz Simango", "Mariano Nhongo", "André Matsangaíssa"],
+        "resposta_correta": 3
+    },
+     {
+        "pergunta": "Qual é o rio mais extenso que atravessa Moçambique?",
+        "opcoes": ["Rio Limpopo", "Rio Save", "Rio Zambeze", "Rio Rovuma"],
+        "resposta_correta": 2
+    },
+    {
+        "pergunta": "Qual é o ponto mais alto de Moçambique?",
+        "opcoes": ["Monte Binga", "Serra da Gorongosa", "Monte Namuli", "Monte Chiperone"],
+        "resposta_correta": 0
+    },
+    {
+        "pergunta": "Quantas províncias existem em Moçambique?",
+        "opcoes": ["8", "10", "11", "12"],
+        "resposta_correta": 2
+    },
+    {
+        "pergunta": "Que país faz fronteira com Moçambique a oeste?",
+        "opcoes": ["África do Sul", "Tanzânia", "Malawi", "Zimbábue"],
+        "resposta_correta": 3
+    },
+    {
+        "pergunta": "Qual destas ilhas faz parte de Moçambique?",
+        "opcoes": ["Ilha de São Tomé", "Ilha de Moçambique", "Ilha de Pemba", "Ilha do Sal"],
+        "resposta_correta": 1
+    },
+    {
+        "pergunta": "Qual das seguintes províncias de Moçambique tem a maior extensão territorial?",
+        "opcoes": ["Cabo Delgado", "Tete", "Nampula", "Niassa"],
+        "resposta_correta": 3
+    },
+    {
+        "pergunta": "Qual é o clima predominante em Moçambique?",
+        "opcoes": ["Tropical", "Árido", "Mediterrâneo", "Temperado"],
+        "resposta_correta": 0
+    },
+    {
+        "pergunta": "Moçambique faz fronteira com quantos países?",
+        "opcoes": ["4", "5", "6", "7"],
+        "resposta_correta": 2
+    },
+    {
+        "pergunta": "Qual é o nome da grande reserva de biodiversidade no sul de Moçambique?",
+        "opcoes": ["Parque Nacional da Gorongosa", "Reserva do Niassa", "Parque Nacional do Limpopo", "Parque Nacional das Quirimbas"],
+        "resposta_correta": 2
+    },
+    {
+        "pergunta": "Que rio forma parte da fronteira entre Moçambique e a Tanzânia?",
+        "opcoes": ["Rio Save", "Rio Zambeze", "Rio Limpopo", "Rio Rovuma"],
+        "resposta_correta": 3
+    },
+    {
+        "pergunta": "Qual é o maior lago de Moçambique?",
+        "opcoes": ["Lago Malawi", "Lago Niassa", "Lago Cahora Bassa", "Lago Tanganyika"],
+        "resposta_correta": 1
+    },
+    {
+        "pergunta": "Qual das seguintes províncias moçambicanas não tem litoral?",
+        "opcoes": ["Zambézia", "Gaza", "Manica", "Nampula"],
+        "resposta_correta": 2
+    },
+    {
+        "pergunta": "Qual destas cidades não é uma capital provincial de Moçambique?",
+        "opcoes": ["Matola", "Xai-Xai", "Tete", "Quelimane"],
+        "resposta_correta": 0
+    },
+    {
+        "pergunta": "Em que região de Moçambique se encontra o Parque Nacional da Gorongosa?",
+        "opcoes": ["Norte", "Sul", "Centro", "Oeste"],
+        "resposta_correta": 2
+    },
+    {
+        "pergunta": "Qual destas províncias moçambicanas é a mais populosa?",
+        "opcoes": ["Maputo", "Tete", "Nampula", "Sofala"],
+        "resposta_correta": 2
+    },
+  {
+        "pergunta": "Qual é a cidade mais populosa de Moçambique?",
+        "opcoes": ["Beira", "Nampula", "Maputo", "Tete"],
+        "resposta_correta": 2
+    },
+    {
+        "pergunta": "Quantos países fazem fronteira com Moçambique?",
+        "opcoes": ["3", "4", "5", "6"],
+        "resposta_correta": 3
+    },
+    {
+        "pergunta": "Qual província moçambicana faz fronteira com o Lago Niassa?",
+        "opcoes": ["Cabo Delgado", "Nampula", "Niassa", "Tete"],
+        "resposta_correta": 2
+    },
+    {
+        "pergunta": "Qual é a província moçambicana com a maior extensão territorial?",
+        "opcoes": ["Zambézia", "Niassa", "Tete", "Manica"],
+        "resposta_correta": 1
+    },
+    {
+        "pergunta": "Qual dessas cidades moçambicanas está localizada mais ao norte?",
+        "opcoes": ["Pemba", "Quelimane", "Xai-Xai", "Beira"],
+        "resposta_correta": 0
+    },
+    {
+        "pergunta": "Qual é a principal atividade econômica da província de Sofala?",
+        "opcoes": ["Pecuária", "Mineração", "Pesca", "Agricultura"],
+        "resposta_correta": 3
+    },
+    {
+        "pergunta": "O Canal de Moçambique separa o país de qual ilha?",
+        "opcoes": ["Ilha da Madeira", "Ilha de Zanzibar", "Ilha de Madagascar", "Ilha do Príncipe"],
+        "resposta_correta": 2
+    },
+    {
+        "pergunta": "Qual é o ponto mais alto de Moçambique?",
+        "opcoes": ["Monte Binga", "Monte Namuli", "Serra de Gorongosa", "Monte Chiperone"],
+        "resposta_correta": 0
+    },
+    {
+        "pergunta": "A Ilha de Moçambique foi uma colônia de qual país antes da independência?",
+        "opcoes": ["Espanha", "França", "Portugal", "Inglaterra"],
+        "resposta_correta": 2
+    },
+    {
+        "pergunta": "Qual destas cidades está localizada na província de Inhambane?",
+        "opcoes": ["Vilankulo", "Tete", "Lichinga", "Nampula"],
+        "resposta_correta": 0
+    },
+    {
+        "pergunta": "Qual rio forma parte da fronteira entre Moçambique e Tanzânia?",
+        "opcoes": ["Rio Zambeze", "Rio Limpopo", "Rio Rovuma", "Rio Save"],
+        "resposta_correta": 2
+    },
+    {
+        "pergunta": "Qual destas cidades moçambicanas é um centro turístico conhecido por suas praias?",
+        "opcoes": ["Tete", "Chimoio", "Pemba", "Lichinga"],
+        "resposta_correta": 2
+    },
+    {
+        "pergunta": "O Parque Nacional da Gorongosa está localizado em qual província?",
+        "opcoes": ["Maputo", "Manica", "Sofala", "Tete"],
+        "resposta_correta": 2
+    },
+    {
+        "pergunta": "Qual dessas províncias moçambicanas tem a maior produção de castanha de caju?",
+        "opcoes": ["Zambézia", "Cabo Delgado", "Nampula", "Niassa"],
+        "resposta_correta": 2
+    },
+    {
+        "pergunta": "A cidade portuária de Nacala está localizada em qual província?",
+        "opcoes": ["Cabo Delgado", "Nampula", "Zambézia", "Sofala"],
+        "resposta_correta": 1
+    },
+  {
+        "pergunta": "Qual é a principal fonte de receita da economia moçambicana?",
+        "opcoes": ["Agricultura", "Mineração", "Turismo", "Petróleo"],
+        "resposta_correta": 1
+    },
+    {
+        "pergunta": "Qual é o principal produto de exportação de Moçambique?",
+        "opcoes": ["Carvão", "Alumínio", "Camarão", "Madeira"],
+        "resposta_correta": 1
+    },
+    {
+        "pergunta": "Qual destas empresas é uma das maiores produtoras de alumínio em Moçambique?",
+        "opcoes": ["Mozal", "HCB", "Vale Moçambique", "Petromoc"],
+        "resposta_correta": 0
+    },
+    {
+        "pergunta": "Qual é a moeda oficial de Moçambique?",
+        "opcoes": ["Rand", "Metical", "Dólar", "Kwanza"],
+        "resposta_correta": 1
+    },
+    {
+        "pergunta": "Qual dos seguintes setores emprega a maior parte da população moçambicana?",
+        "opcoes": ["Indústria", "Agricultura", "Mineração", "Serviços"],
+        "resposta_correta": 1
+    },
+    {
+        "pergunta": "Que recurso natural descoberto na Bacia do Rovuma impulsionou a economia moçambicana?",
+        "opcoes": ["Ouro", "Gás natural", "Petróleo", "Carvão"],
+        "resposta_correta": 1
+    },
+    {
+        "pergunta": "Qual destas províncias moçambicanas tem uma grande produção de gás natural?",
+        "opcoes": ["Tete", "Cabo Delgado", "Inhambane", "Zambézia"],
+        "resposta_correta": 1
+    },
+    {
+        "pergunta": "Qual é a empresa responsável pela exploração de gás natural na Bacia do Rovuma?",
+        "opcoes": ["Mozal", "Hidroeléctrica de Cahora Bassa", "TotalEnergies", "Vale Moçambique"],
+        "resposta_correta": 2
+    },
+    {
+        "pergunta": "A Hidroeléctrica de Cahora Bassa fornece eletricidade principalmente para qual país vizinho?",
+        "opcoes": ["Tanzânia", "Zimbabwe", "África do Sul", "Zâmbia"],
+        "resposta_correta": 2
+    },
+    {
+        "pergunta": "Qual é o nome do maior porto comercial de Moçambique?",
+        "opcoes": ["Porto de Beira", "Porto de Maputo", "Porto de Nacala", "Porto de Quelimane"],
+        "resposta_correta": 1
+    },
+    {
+        "pergunta": "Que região de Moçambique é conhecida pela produção de carvão mineral?",
+        "opcoes": ["Niassa", "Zambézia", "Tete", "Gaza"],
+        "resposta_correta": 2
+    },
+    {
+        "pergunta": "Qual destes países é um dos principais parceiros comerciais de Moçambique?",
+        "opcoes": ["Brasil", "África do Sul", "Estados Unidos", "Nigéria"],
+        "resposta_correta": 1
+    },
+    {
+        "pergunta": "A ZEE (Zona Econômica Especial) de Nacala foi criada para promover o quê?",
+        "opcoes": ["Agricultura", "Indústria e comércio", "Turismo", "Exportação de pescado"],
+        "resposta_correta": 1
+    },
+    {
+        "pergunta": "Qual destes produtos agrícolas é amplamente cultivado para exportação em Moçambique?",
+        "opcoes": ["Milho", "Algodão", "Arroz", "Batata-doce"],
+        "resposta_correta": 1
+    },
+    {
+        "pergunta": "Qual é a maior companhia aérea de Moçambique?",
+        "opcoes": ["LAM", "Fastjet", "Mozambique Express", "Air Mozambique"],
+        "resposta_correta": 0
+    },
+  {
+        "pergunta": "Qual é o maior banco comercial de Moçambique?",
+        "opcoes": ["BCI", "Standard Bank", "Millennium BIM", "Moza Banco"],
+        "resposta_correta": 2
+    },
+    {
+        "pergunta": "O que representa a sigla INSS em Moçambique?",
+        "opcoes": ["Instituto Nacional de Segurança Social", "Instituto Nacional de Seguros e Saúde", "Instituto Nacional de Sustentabilidade Social", "Instituição Nacional de Serviços e Suporte"],
+        "resposta_correta": 0
+    },
+    {
+        "pergunta": "Qual dos seguintes setores tem recebido grandes investimentos estrangeiros em Moçambique nos últimos anos?",
+        "opcoes": ["Agricultura", "Mineração", "Educação", "Saúde"],
+        "resposta_correta": 1
+    },
+    {
+        "pergunta": "Qual é a principal matéria-prima extraída na província de Tete?",
+        "opcoes": ["Alumínio", "Carvão mineral", "Petróleo", "Ferro"],
+        "resposta_correta": 1
+    },
+    {
+        "pergunta": "O que é a Bolsa de Valores de Moçambique (BVM)?",
+        "opcoes": ["Uma bolsa onde se negocia ouro e prata", "Uma entidade que regula o setor bancário", "Uma instituição onde se compram e vendem ações e títulos", "Um banco de investimento do governo"],
+        "resposta_correta": 2
+    },
+    {
+        "pergunta": "Qual é a principal forma de transporte usada para exportação de carvão mineral de Moçambique?",
+        "opcoes": ["Avião", "Caminhão", "Ferrovia", "Navio"],
+        "resposta_correta": 3
+    },
+    {
+        "pergunta": "Qual destas empresas tem uma grande operação de mineração em Moçambique?",
+        "opcoes": ["Vale Moçambique", "Mozal", "TotalEnergies", "Sasol"],
+        "resposta_correta": 0
+    },
+    {
+        "pergunta": "Qual o impacto da descoberta de gás natural na economia moçambicana?",
+        "opcoes": ["Redução da inflação", "Atração de investimentos estrangeiros", "Diminuição da dívida pública", "Fechamento de minas de carvão"],
+        "resposta_correta": 1
+    },
+    {
+        "pergunta": "Qual é a principal razão para a valorização do Porto de Nacala?",
+        "opcoes": ["Localização estratégica para exportação", "Grande capacidade de armazenamento", "Moderna infraestrutura de transporte", "Menor custo de operação"],
+        "resposta_correta": 0
+    },
+    {
+        "pergunta": "O que significa o termo 'diversificação econômica' no contexto de Moçambique?",
+        "opcoes": ["Investimento exclusivo na agricultura", "Aumento da dependência em um único setor", "Expansão para múltiplos setores econômicos", "Privatização de empresas estatais"],
+        "resposta_correta": 2
+    },
+    {
+        "pergunta": "Qual destes países investiu significativamente no setor de gás natural em Moçambique?",
+        "opcoes": ["China", "França", "Japão", "Brasil"],
+        "resposta_correta": 1
+    },
+    {
+        "pergunta": "Qual destas regiões moçambicanas tem grandes depósitos de areias pesadas?",
+        "opcoes": ["Gaza", "Nampula", "Zambézia", "Tete"],
+        "resposta_correta": 1
+    },
+    {
+        "pergunta": "O turismo em Moçambique é impulsionado principalmente por qual fator?",
+        "opcoes": ["Riqueza mineral", "Infraestrutura hoteleira", "Belezas naturais e praias", "Conectividade aérea"],
+        "resposta_correta": 2
+    },
+    {
+        "pergunta": "A pesca em Moçambique é uma atividade econômica importante devido à presença de qual oceano?",
+        "opcoes": ["Oceano Atlântico", "Oceano Índico", "Oceano Pacífico", "Oceano Antártico"],
+        "resposta_correta": 1
+    },
+    {
+        "pergunta": "Que tipo de energia é produzida pela Hidroeléctrica de Cahora Bassa?",
+        "opcoes": ["Solar", "Eólica", "Hidroelétrica", "Nuclear"],
+        "resposta_correta": 2
+    },
+    {
+        "pergunta": "Qual destes produtos agrícolas moçambicanos é altamente exportado?",
+        "opcoes": ["Milho", "Cana-de-açúcar", "Castanha de caju", "Banana"],
+        "resposta_correta": 2
+    },
+    {
+        "pergunta": "Qual é a função do Banco de Moçambique?",
+        "opcoes": ["Emitir moeda e regular o sistema financeiro", "Fornecer empréstimos a empresas", "Administrar fundos de investimento", "Gerir o orçamento do governo"],
+        "resposta_correta": 0
+    },
+    {
+        "pergunta": "A província de Gaza é conhecida pela produção de qual destes produtos?",
+        "opcoes": ["Chá", "Camarão", "Arroz", "Carvão mineral"],
+        "resposta_correta": 2
+    },
+    {
+        "pergunta": "Qual é o maior desafio da economia moçambicana atualmente?",
+        "opcoes": ["Falta de recursos naturais", "Baixa taxa de desemprego", "Crescimento sustentável e diversificação", "Excesso de exportações"],
+        "resposta_correta": 2
+    },
+  {
+        "pergunta": "Quem foi o primeiro europeu a chegar à costa de Moçambique?",
+        "opcoes": ["Vasco da Gama", "Pedro Álvares Cabral", "Cristóvão Colombo", "Bartolomeu Dias"],
+        "resposta_correta": 0
+    },
+    {
+        "pergunta": "Em que ano Moçambique se tornou uma colônia de Portugal?",
+        "opcoes": ["1498", "1752", "1850", "1910"],
+        "resposta_correta": 1
+    },
+    {
+        "pergunta": "Qual foi o principal movimento de libertação de Moçambique?",
+        "opcoes": ["MPLA", "RENAMO", "FRELIMO", "ZANU-PF"],
+        "resposta_correta": 2
+    },
+    {
+        "pergunta": "Quem foi o fundador da FRELIMO?",
+        "opcoes": ["Samora Machel", "Eduardo Mondlane", "Joaquim Chissano", "Filipe Nyusi"],
+        "resposta_correta": 1
+    },
+    {
+        "pergunta": "Em que ano foi assinada a independência de Moçambique?",
+        "opcoes": ["1964", "1975", "1980", "1992"],
+        "resposta_correta": 1
+    },
+    {
+        "pergunta": "Qual cidade foi a primeira capital de Moçambique sob domínio colonial?",
+        "opcoes": ["Maputo", "Ilha de Moçambique", "Beira", "Nampula"],
+        "resposta_correta": 1
+    },
+    {
+        "pergunta": "Qual foi o primeiro presidente de Moçambique independente?",
+        "opcoes": ["Joaquim Chissano", "Armando Guebuza", "Samora Machel", "Filipe Nyusi"],
+        "resposta_correta": 2
+    },
+    {
+        "pergunta": "Qual foi o tratado que pôs fim à guerra civil moçambicana?",
+        "opcoes": ["Acordo de Roma", "Tratado de Lusaka", "Acordo de Nkomati", "Pacto de Maputo"],
+        "resposta_correta": 0
+    },
+    {
+        "pergunta": "Que país ajudou a mediar os Acordos de Paz de 1992 em Moçambique?",
+        "opcoes": ["Portugal", "Estados Unidos", "Itália", "África do Sul"],
+        "resposta_correta": 2
+    },
+    {
+        "pergunta": "Que evento trágico marcou o fim do governo de Samora Machel?",
+        "opcoes": ["Um golpe de Estado", "Um atentado terrorista", "Um acidente de avião", "Uma revolta popular"],
+        "resposta_correta": 2
+    },
+    {
+        "pergunta": "Quem sucedeu Samora Machel como presidente de Moçambique?",
+        "opcoes": ["Joaquim Chissano", "Filipe Nyusi", "Eduardo Mondlane", "Armando Guebuza"],
+        "resposta_correta": 0
+    },
+    {
+        "pergunta": "Em que ano a guerra civil moçambicana começou?",
+        "opcoes": ["1977", "1985", "1992", "2000"],
+        "resposta_correta": 0
+    },
+    {
+        "pergunta": "Quantos anos durou a guerra civil moçambicana?",
+        "opcoes": ["10 anos", "15 anos", "20 anos", "5 anos"],
+        "resposta_correta": 1
+    },
+    {
+        "pergunta": "Qual foi o impacto da guerra civil na economia moçambicana?",
+        "opcoes": ["A economia cresceu rapidamente", "Houve destruição da infraestrutura e crise econômica", "Moçambique se tornou uma potência regional", "A guerra não teve impacto econômico"],
+        "resposta_correta": 1
+    },
+    {
+        "pergunta": "Que país vizinho apoiou a RENAMO durante a guerra civil?",
+        "opcoes": ["Zimbábue", "África do Sul", "Tanzânia", "Malawi"],
+        "resposta_correta": 1
+    },
+    {
+        "pergunta": "O que foi o Acordo de Nkomati?",
+        "opcoes": ["Um pacto de comércio entre Moçambique e Portugal", "Um acordo de não agressão entre Moçambique e África do Sul", "O tratado de paz da guerra civil", "Uma aliança militar com Angola"],
+        "resposta_correta": 1
+    },
+    {
+        "pergunta": "Que organização internacional ajudou a restaurar a paz em Moçambique após a guerra civil?",
+        "opcoes": ["União Africana", "NATO", "Nações Unidas", "Comunidade dos Países de Língua Portuguesa"],
+        "resposta_correta": 2
+    },
+    {
+        "pergunta": "Qual foi o papel de Eduardo Mondlane na luta pela independência de Moçambique?",
+        "opcoes": ["Foi o primeiro presidente de Moçambique", "Foi líder fundador da FRELIMO", "Foi o chefe militar da RENAMO", "Assinou o acordo de paz com Portugal"],
+        "resposta_correta": 1
+    },
+    {
+        "pergunta": "Qual destes líderes moçambicanos nunca foi presidente do país?",
+        "opcoes": ["Eduardo Mondlane", "Samora Machel", "Joaquim Chissano", "Armando Guebuza"],
+        "resposta_correta": 0
+    }
+]
